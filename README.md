@@ -1,5 +1,5 @@
 # Auto Zoom for Binusian
-Coded by IkanAsin
+Coded by [IkanAsin](https://github.com/ikanasinn)
 
 ## Usage Instructions
 1. Download the code
@@ -12,3 +12,7 @@ Coded by IkanAsin
 
 2. Run autofetch.exe (Login with your BinusMaya Account)
 3. Run autoZoom.exe
+4. Enjoy!
+
+## Any Questions ?
+Just contact me on Discord or Line
