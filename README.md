@@ -1,6 +1,9 @@
 # Auto Zoom for Binusian
-Coded by [IkanAsin](https://github.com/ikanasinn)
+<p align='center'>
+<img src='./banner.png' width=50% height=50%>
+</p><br>
 
+Coded by [IkanAsin](https://github.com/ikanasinn)
 ## Usage Instructions
 1. Download the code
     ```
